@@ -1,7 +1,7 @@
 About cachey
 ============
 
-Home: http://github.com/mrocklin/cachey/
+Home: http://github.com/dask/cachey/
 
 Package license: BSD-3-Clause
 
