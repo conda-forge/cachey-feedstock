@@ -23,8 +23,12 @@ requirements:
     - python
 
 test:
+  requires:
+    - pip
   imports:
     - cachey
+  commands:
+    - pip check
 
 about:
   home: http://github.com/dask/cachey/
